@@ -1,0 +1,32 @@
+{
+  "name": "angular-query-master",
+  "version": "1.0.0-rc.1",
+  "description": "Angular module for parse query uri",
+  "homepage": "https://github.com/Kroid/angular-query-master",
+  "authors": [
+    "George M Kroid <kroid@yandex.ru>"
+  ],
+  "main": "dist/query-master.js",
+  "keywords": [
+    "query",
+    "search",
+    "url",
+    "uri",
+    "parser",
+    "stringify",
+    "angular",
+    "master"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.14",
+    "angular-mocks": "~1.3.14"
+  }
+}

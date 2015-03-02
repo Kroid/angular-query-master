@@ -1,0 +1,39 @@
+{
+  "name": "angular-query-master",
+  "version": "1.0.0-rc.1",
+  "description": "Angular module for parse query uri",
+  "main": "dist/query-master.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kroid/angular-query-master.git"
+  },
+  "keywords": [
+    "query",
+    "search",
+    "url",
+    "uri",
+    "parser",
+    "stringify",
+    "angular",
+    "master"
+  ],
+  "author": "George M Kroid <kroid@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kroid/angular-query-master/issues"
+  },
+  "homepage": "https://github.com/Kroid/angular-query-master",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5"
+  }
+}
