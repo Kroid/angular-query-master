@@ -10,10 +10,10 @@ $location and $routeParams not enought for deep parse query arguments:
 $location.search()
 
 {
-  users[0][id]: "1",
-  users[0][name]: "Joe",
-  users[1][id]: "2",
-  users[1][name]: "Kevin"
+  "users[0][id]": "1",
+  "users[0][name]": "Joe",
+  "users[1][id]": "2",
+  "users[1][name]": "Kevin"
 }
 ```
 

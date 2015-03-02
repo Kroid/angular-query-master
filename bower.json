@@ -1,12 +1,12 @@
 {
   "name": "angular-query-master",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.1.1",
   "description": "Angular module for parse query uri",
   "homepage": "https://github.com/Kroid/angular-query-master",
   "authors": [
     "George M Kroid <kroid@yandex.ru>"
   ],
-  "main": "dist/query-master.js",
+  "main": "dist/angular-query-master.js",
   "keywords": [
     "query",
     "search",
